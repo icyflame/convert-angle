@@ -1,6 +1,6 @@
 {
   "name": "convert-angle",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert effortlessly between degrees and radians",
   "license": "MIT",
   "repository": "icyflame/convert-angle",
